@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // 1. Initial State
     let taskData = {
-        title: "Complete Frontend Task",
+        title: "Complete Task",
         description: "This is a very long description intended to test the expand and collapse functionality of the Stage 1a task. It should hide overflow until the toggle is clicked.",
         priority: "High",
         status: "Pending",
